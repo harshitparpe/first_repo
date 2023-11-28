@@ -1,2 +1,3 @@
 # first_repo
-This is my git repository
+This is my first Git repository.
+My name is Harshit Parpe.
